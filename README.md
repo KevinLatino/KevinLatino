@@ -20,7 +20,6 @@ I'm a software developer and Web3 enthusiast, driven by continuous learning and 
 
 I'm currently learning 🌱:
 
-- ⚡**Next.js**: A React framework for building fast web applications with server-side rendering.
 - ⛓️‍💥**Solidity**: A programming language for writing smart contracts on Ethereum and other blockchains.
 - 🐳**Docker**: A platform for automating application deployment using containerization.
 
