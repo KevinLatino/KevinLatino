@@ -29,8 +29,6 @@ I'm currently learning 🌱:
 
 <div align="center">
 
-<img src="./Tech-Images/html5.svg" width="35"/>&nbsp;&nbsp;&nbsp;
-<img src="./Tech-Images/css.svg" width="35"/>&nbsp;&nbsp;&nbsp;
 <img src="./Tech-Images/javascript.svg" width="40"/>&nbsp;&nbsp;&nbsp;
 <img src="./Tech-Images/typescript.svg" width="40"/>&nbsp;&nbsp;&nbsp;
 <img src="./Tech-Images/react.svg" width="43"/>&nbsp;&nbsp;&nbsp;
