@@ -41,16 +41,14 @@ I'm currently learning 🌱:
 
   ## Backend Stack 🧬
 
-  <div align="center" justify="center>
-    
-   <img src="./Tech-Images/node-js.svg"  width="51"/>&nbsp;&nbsp;&nbsp;
-   <img src="./Tech-Images/expressjs_dark.svg" width="45"/>&nbsp;&nbsp;&nbsp;
-   <img src="./Tech-Images/sequelize.svg" width="38"/> &nbsp;&nbsp;&nbsp;
-   <img src="./Tech-Images/typeorm.svg" width="40"/> &nbsp;&nbsp;&nbsp;
-   <img src="./Tech-Images/python.svg" width="70"/> 
+<div style="display: flex; justify-content: center; align-items: center;">
+   <img src="./Tech-Images/node-js.svg" width="51" />&nbsp;&nbsp;&nbsp;
+   <img src="./Tech-Images/expressjs_dark.svg" width="45" />&nbsp;&nbsp;&nbsp;
+   <img src="./Tech-Images/sequelize.svg" width="38" />&nbsp;&nbsp;&nbsp;
+   <img src="./Tech-Images/typeorm.svg" width="40" />&nbsp;&nbsp;&nbsp;
+   <img src="./Tech-Images/python.svg" width="70" />
+</div>
 
-  
-  </div>
 
 
   ## DataBase Stack 📊
