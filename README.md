@@ -47,7 +47,7 @@ I'm currently learning 🌱:
    <img src="./Tech-Images/expressjs_dark.svg" width="45"/>&nbsp;&nbsp;&nbsp;
    <img src="./Tech-Images/sequelize.svg" width="38"/> &nbsp;&nbsp;&nbsp;
    <img src="./Tech-Images/typeorm.svg" width="40"/> &nbsp;&nbsp;&nbsp;
-   <img src="./Tech-Images/python.svg" width="40"/> 
+   <img src="./Tech-Images/python.svg" width="50"/> 
 
   
   </div>
