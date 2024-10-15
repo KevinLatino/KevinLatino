@@ -1,12 +1,5 @@
-<div align="center">
-  
-  [![Email](https://img.shields.io/badge/mail-latinokevin9@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)]()&nbsp;&nbsp;&nbsp;
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Kevin_Latino-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/KevinLatino)&nbsp;&nbsp;&nbsp;
-  [![Twitter](https://img.shields.io/badge/Twitter-@kevlatino_-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=101010)](https://twitter.com/kevlatino_)
-</div>
-
  ---
-# About Me 👀
+# Hello There! I'm Kevin Latino 👋🏽
 
 I'm a software developer and Web3 enthusiast, driven by continuous learning and growth. Always seeking new challenges to expand my tech skills.
 
@@ -17,7 +10,7 @@ I'm currently learning 🌱:
 
 <div align="center">
   <img src="./Tech-Images/gmail.svg" width="40"/>&nbsp;&nbsp;&nbsp;
-  <img src="./Tech-Images/X_Night.svg" width="40"/>&nbsp;&nbsp;&nbsp;
+  <img src="./Tech-Images/X_Night.svg" width="37"/>&nbsp;&nbsp;&nbsp;
   <img src="./Tech-Images/linkedin.svg" width="40"/>&nbsp;&nbsp;&nbsp;
 </div>
 
