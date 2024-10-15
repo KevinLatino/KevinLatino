@@ -9,7 +9,7 @@ I'm currently learning 🌱:
 - 🐳**Docker**: A platform for automating application deployment using containerization.
 
 <div align="center">
-  <img src="./Tech-Images/gmail.svg" width="44"/>&nbsp;&nbsp;&nbsp;
+  <img src="./Tech-Images/gmail.svg" width="48"/>&nbsp;&nbsp;&nbsp;
   <img src="./Tech-Images/X_Night.svg" width="37"/>&nbsp;&nbsp;&nbsp;
   <img src="./Tech-Images/linkedin.svg" width="40"/>&nbsp;&nbsp;&nbsp;
 </div>
