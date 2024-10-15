@@ -1,5 +1,4 @@
- ---
-# Hello There! I'm Kevin Latino 👋🏽
+ # Hello There! I'm Kevin Latino 👋🏽
 
 I'm a software developer and Web3 enthusiast, driven by continuous learning and growth. Always seeking new challenges to expand my tech skills.
 
@@ -15,6 +14,8 @@ I'm currently learning 🌱:
  [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/kevlatino_)
  
 </div>
+
+---
 
  # My Tech Skills ⛩️
 
