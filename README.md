@@ -9,9 +9,11 @@ I'm currently learning 🌱:
 - 🐳**Docker**: A platform for automating application deployment using containerization.
 
 <div align="center">
+ 
  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:latinokevin9@gmail.com)&nbsp;&nbsp;&nbsp;
  [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kevinlatino/)&nbsp;&nbsp;&nbsp;
  [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/kevlatino_)
+ 
 </div>
 
  # My Tech Skills ⛩️
