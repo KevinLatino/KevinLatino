@@ -15,10 +15,16 @@ I'm currently learning 🌱:
 - ⛓️‍💥**Solidity**: A programming language for writing smart contracts on Ethereum and other blockchains.
 - 🐳**Docker**: A platform for automating application deployment using containerization.
 
+<div align="center">
+  <img src="./Tech-Images/gmail.svg" width="40"/>&nbsp;&nbsp;&nbsp;
+  <img src="./Tech-Images/X_Night.svg" width="40"/>&nbsp;&nbsp;&nbsp;
+  <img src="./Tech-Images/linkedin.svg" width="40"/>&nbsp;&nbsp;&nbsp;
+</div>
+
  # My Tech Skills ⛩️
 
   ## Frontend Stack 🎨
-
+ 
 <div align="center">
 
 <img src="./Tech-Images/javascript.svg" width="40"/>&nbsp;&nbsp;&nbsp;
