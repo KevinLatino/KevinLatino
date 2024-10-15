@@ -1,11 +1,3 @@
-<div align="center" style="margin-bottom: 50px;">
-  <img src="./KevinBanner.png" />
-
-  
-</div>
-
-<br />
-
 <div align="center">
   
   [![Email](https://img.shields.io/badge/mail-latinokevin9@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)]()&nbsp;&nbsp;&nbsp;
