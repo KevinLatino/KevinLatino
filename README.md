@@ -2,11 +2,6 @@
 
 I'm a software developer and Web3 enthusiast, driven by continuous learning and growth. Always seeking new challenges to expand my tech skills.
 
-I'm currently learning 🌱:
-
-- ⛓️‍💥**Solidity**: A programming language for writing smart contracts on Ethereum and other blockchains.
-- 🐳**Docker**: A platform for automating application deployment using containerization.
-
 <div align="center">
  
  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:latinokevin9@gmail.com)&nbsp;&nbsp;&nbsp;
