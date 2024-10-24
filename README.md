@@ -1,6 +1,6 @@
  # Hello There! I'm Kevin Latino 👋🏽
 
-I'm a software developer and Web3 enthusiast, driven by continuous learning and growth. Always seeking new challenges to expand my tech skills.
+I am a software developer and a Web3 enthusiast. Here on my GitHub, you can explore my projects and contributions to open-source blockchain projects.
 
 <div align="center">
  
