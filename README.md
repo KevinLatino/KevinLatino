@@ -39,7 +39,7 @@ I'm a software developer and a Web3 enthusiast. Here on my GitHub, you can explo
 
 
 
-  ## DataBase Stack 📊
+  ## DataBase Stack 🔑
 
 
   <div align="center" ">
@@ -50,7 +50,7 @@ I'm a software developer and a Web3 enthusiast. Here on my GitHub, you can explo
 
   </div>
 
-  ## DevOps and Tools ⚛️
+  ## DevOps and Tools ♾️
 
 <div align="center">
   
@@ -58,7 +58,5 @@ I'm a software developer and a Web3 enthusiast. Here on my GitHub, you can explo
   <img src="./Tech-Images/git.svg" width="40"/>&nbsp;&nbsp;&nbsp;
   <img src="./Tech-Images/jest.svg" width="35"/>&nbsp;&nbsp;&nbsp;
   <img src="./Tech-Images/postman.svg" width="40"/>&nbsp;&nbsp;&nbsp;
-  <img src="./Tech-Images/docker.svg" width="48"/>&nbsp;&nbsp;&nbsp;
-  <img src="./Tech-Images/vercel_dark.svg" width="38"/>
-  
+  <img src="./Tech-Images/docker.svg" width="48"/>&nbsp;&nbsp;&nbsp;  
 </div>
