@@ -56,7 +56,7 @@ I'm a software developer and a Web3 enthusiast. Here on my GitHub, you can explo
   
   <img src="./Tech-Images/github-dark.svg" width="40"/>&nbsp;&nbsp;&nbsp;
   <img src="./Tech-Images/git.svg" width="40"/>&nbsp;&nbsp;&nbsp;
-  <img src="./Tech-Images/jest.svg" width="40"/>&nbsp;&nbsp;&nbsp;
+  <img src="./Tech-Images/jest.svg" width="36"/>&nbsp;&nbsp;&nbsp;
   <img src="./Tech-Images/postman.svg" width="40"/>&nbsp;&nbsp;&nbsp;
   <img src="./Tech-Images/docker.svg" width="40"/>&nbsp;&nbsp;&nbsp;
   <img src="./Tech-Images/vercel_dark.svg" width="38"/>
