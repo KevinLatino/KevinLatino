@@ -50,7 +50,7 @@ I'm a software developer and a Web3 enthusiast. Here on my GitHub, you can explo
 
   </div>
 
-  ## Other Tools ⚛️
+  ## DevOps and Tools ⚛️
 
 <div align="center">
   
