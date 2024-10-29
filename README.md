@@ -1,6 +1,6 @@
  # Hello There! I'm Kevin Latino 👋🏽
 
-I'm a software developer and a Web3 enthusiast. Here on my GitHub, you can explore my projects and contributions to open-source blockchain software (which are the majority of the forked projects). I'm passionate about learning and constantly seek new challenges to further my professional growth and expertise.
+I'm a software developer and a Web3 enthusiast. Here on my GitHub, you can explore my projects and contributions to open-source blockchain projects (which are the majority of the forked projects). I'm passionate about learning and constantly seek new challenges to further my professional growth and expertise.
 
 <div align="center">
  
