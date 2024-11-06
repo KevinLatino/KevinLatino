@@ -32,9 +32,9 @@ I'm a software developer and a Web3 enthusiast. Here on my GitHub, you can explo
 
 <div align="center">
    <img src="./Tech-Images/node-js.svg"  width="51"/>&nbsp;&nbsp;&nbsp;
-   <img src="./Tech-Images/expressjs_dark.svg" width="45"/>&nbsp;&nbsp;&nbsp;
    <img src="./Tech-Images/sequelize.svg" width="38"/> &nbsp;&nbsp;&nbsp;
    <img src="./Tech-Images/typeorm.svg" width="40"/> 
+   <img src="./Tech-Images/python.svg"  width="90"/> 
 </div>
 
 
