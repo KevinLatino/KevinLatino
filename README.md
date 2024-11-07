@@ -3,12 +3,15 @@
 I'm a Software Developer, Open-Source Contributor and Web3 Enthusiast. Here on my GitHub, you can explore my projects and contributions to Open-Source Blockchain Projects (which are the majority of the forked projects). I'm passionate about learning and constantly seek new challenges to further my professional growth and expertise.
 
 <div align="center">
- 
- [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:latinokevin9@gmail.com)&nbsp;&nbsp;&nbsp;
- [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kevinlatino/)&nbsp;&nbsp;&nbsp;
- [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/kevlatino_)
- 
+
+### Let's Connect on My Social Media!  👀
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:latinokevin9@gmail.com)&nbsp;&nbsp;&nbsp;
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kevinlatino/)&nbsp;&nbsp;&nbsp;
+[![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://twitter.com/0xklatino_)
+
 </div>
+
 
 ---
 
