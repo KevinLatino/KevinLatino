@@ -20,7 +20,7 @@ I'm a Software Developer, Open-Source Contributor and Web3 Enthusiast. Here on m
 
 </div>
 
-# What I'm Up To 💡
+## What I'm Up To 💡
 
 - 💳 **Leading** [StarShop](https://github.com/StarShopCr), an e-commerce built on Stellar BlockChain.
 - 🤝 **Co-founding** [Oppia Software Labs](https://github.com/Oppia-Software-Labs), building innovative software solutions with a close friend.  
@@ -28,7 +28,7 @@ I'm a Software Developer, Open-Source Contributor and Web3 Enthusiast. Here on m
 
 #
 
- # My Tech Skills ⛩️
+ ## My Tech Skills ⛩️
 
   ## Frontend Stack 🎨
  
