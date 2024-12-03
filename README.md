@@ -10,8 +10,6 @@ I'm a Software Developer, Open-Source Contributor and Web3 Enthusiast. Here on m
 - 🤝 **Co-founding** [Oppia Software Labs](https://github.com/Oppia-Software-Labs), building innovative software solutions with a close friend.  
 - 🦀 **Exploring** [Rust](https://github.com/rust-lang/rust), diving into one of the most powerful programming languages.  
 
-#
-
 </div>
 
 <div align="center">
