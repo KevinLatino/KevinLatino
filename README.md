@@ -28,7 +28,7 @@ I'm a Software Developer, Open-Source Contributor and Web3 Enthusiast. Here on m
 
 #
 
- ## My Tech Skills ⛩️
+ # My Tech Skills ⛩️
 
   ## Frontend Stack 🎨
  
