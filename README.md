@@ -31,7 +31,7 @@ I'm a Software Developer, Open-Source Contributor and Web3 Enthusiast. Here on m
 
  # My Tech Skills ⛩️
 
-  ## Frontend Stack 🎨
+  ## Frontend Stack  🎨
  
 <div align="center">
 
@@ -45,7 +45,7 @@ I'm a Software Developer, Open-Source Contributor and Web3 Enthusiast. Here on m
 </div>
 
 
-  ## Backend Stack 🧬
+  ## Backend Stack  🧬
 
 <div align="center">
     <img src="./Tech-Images/python.svg"  width="43"/>&nbsp;&nbsp;&nbsp;
@@ -56,8 +56,8 @@ I'm a Software Developer, Open-Source Contributor and Web3 Enthusiast. Here on m
 
 
 
-  ## DataBase Stack 🔑
-
+  ## DataBase Stack  🔑
+ 
 
   <div align="center" ">
     
@@ -67,7 +67,7 @@ I'm a Software Developer, Open-Source Contributor and Web3 Enthusiast. Here on m
 
   </div>
 
-  ## DevOps and Tools ♾️
+  ## DevOps and Tools  🌀
 
 <div align="center">
   
