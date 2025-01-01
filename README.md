@@ -75,5 +75,5 @@ I'm a Software Developer, Open-Source Contributor and Web3 Enthusiast. Here on m
   <img src="./Tech-Images/git.svg" width="40"/>&nbsp;&nbsp;&nbsp;
   <img src="./Tech-Images/jest.svg" width="35"/>&nbsp;&nbsp;&nbsp;
   <img src="./Tech-Images/postman.svg" width="40"/>&nbsp;&nbsp;&nbsp;
-  <img src="./Tech-Images/docker.svg" width="52"/>&nbsp;&nbsp;&nbsp;  
+  <img src="./Tech-Images/docker.svg" width="54"/>&nbsp;&nbsp;&nbsp;  
 </div>
