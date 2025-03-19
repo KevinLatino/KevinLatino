@@ -2,7 +2,7 @@
 
  <div align="left">
 
-I'm a Software Developer, Open-Source Contributor and Web3 Enthusiast. Here on my GitHub, you can explore my personal projects and contributions to Open-Source Software Projects. I'm passionate about learning and constantly seek new challenges to further my professional growth and expertise.
+I'm a Software Engineer, Open-Source Contributor and Web3 Enthusiast. Here on my GitHub, you can explore my personal projects and contributions to Open-Source Software Projects. I'm passionate about learning and constantly seek new challenges to further my professional growth and expertise.
 
 </div>
 
