@@ -31,7 +31,7 @@ I'm a **Software Engineer**, **Open-Source Contributor**, and **Web3 Developer**
 ### What I'm Up To 💡
 
 - 🤝 **Co-founding** [Oppia Software Labs](https://github.com/Oppia-Software-Labs), building innovative software solutions.
-- 🌍 **Contributing to Open Source** — Actively collaborating on **open-source projects**, improving software, fixing bugs, and learning from the global developer community.  
+- 🌍 **Contributing to Open Source**: actively collaborating on **open-source projects**, improving software, fixing bugs, and learning from the global developer community.  
 - 🦀 **Learning** [Rust](https://github.com/rust-lang/rust), diving into one of the most powerful programming languages.
 
 ##
