@@ -2,7 +2,7 @@
 
  <div align="left">
 
-I'm a Software Engineer, Open-Source Contributor and Web3 Developer. Here on my GitHub, you can explore my personal projects and contributions to Open-Source Software Projects. I'm passionate about learning and constantly seek new challenges to further my professional growth and expertise.
+I'm a **Software Engineer**, **Open-Source Contributor**, and **Web3 Developer**. Here on GitHub, you'll find my personal projects alongside my contributions to open-source initiatives. I'm deeply passionate about continuous learning and always eager to embrace new challenges that drive my professional growth and technical expertise.
 
 </div>
 
@@ -31,7 +31,7 @@ I'm a Software Engineer, Open-Source Contributor and Web3 Developer. Here on my 
 ### What I'm Up To 💡
 
 - 🤝 **Co-founding** [Oppia Software Labs](https://github.com/Oppia-Software-Labs), building innovative software solutions.
-- 🐝 **Building** [Haibu](https://github.com/Haibu-Project), a decentralized social media platform built on Celestar BlockChain.
+- 🌍 **Contributing to Open Source** — Actively collaborating on **open-source projects**, improving software, fixing bugs, and learning from the global developer community.  
 - 🦀 **Learning** [Rust](https://github.com/rust-lang/rust), diving into one of the most powerful programming languages.
 
 ##
