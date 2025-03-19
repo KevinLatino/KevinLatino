@@ -21,6 +21,11 @@ I'm a Software Engineer, Open-Source Contributor and Web3 Developer. Here on my 
 
 </div>
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=KevinLatino&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=true" height="150" alt="stats graph"  />
+</div>
+
+
 ### What I'm Up To 💡
 
 - 🤝 **Co-founding** [Oppia Software Labs](https://github.com/Oppia-Software-Labs), building innovative software solutions.
