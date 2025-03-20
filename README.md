@@ -34,7 +34,7 @@ I'm a **Software Engineer**, **Open-Source Contributor**, and **Web3 Developer**
 - 🌍 **Contributing to Open Source**: actively collaborating on **open-source projects**, improving software, fixing bugs, and learning from the global developer community.  
 - 🦀 **Learning** [Rust](https://github.com/rust-lang/rust), diving into one of the most powerful programming languages.
 
-### My Github Stats💡
+### GitHub Performance Overview 👨🏽‍💻
 
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=KevinLatino&show_icons=true&theme=github_dark&hide_border=true" width="395" />
