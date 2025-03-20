@@ -17,7 +17,7 @@ I'm a **Software Engineer**, **Open-Source Contributor**, and **Web3 Developer**
 [![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://twitter.com/@Kevs_jLM)
 
 
-<img src="https://github-readme-stats.vercel.app/api?username=KevinLatino&show_icons=true&theme=github_dark&hide_border=true_width="395" />
+<img src="https://github-readme-stats.vercel.app/api?username=KevinLatino&show_icons=true&theme=github_dark&hide_border=true" width="395" />
 
 
 ---
