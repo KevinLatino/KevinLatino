@@ -1,4 +1,4 @@
-z # Hello There! I´m Kevin Latino 👋🏽
+ # Hello There! I´m Kevin Latino 👋🏽
 
  <div align="left">
 
@@ -7,7 +7,7 @@ I'm a **Software Engineer**, **Open-Source Contributor**, and **Web3 Developer**
 </div>
 
 
-
+<div align="center">
 
 ### Let's Connect on My Social Media!  👀
 
