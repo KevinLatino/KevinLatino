@@ -11,10 +11,11 @@ I'm a **Software Engineer**, **Open-Source Contributor**, and **Web3 Developer**
 
 ### Let's Connect on Social Media!  👀
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kevinlatino.kl@gmail.com)&nbsp;&nbsp;&nbsp;
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/kevlatino)&nbsp;&nbsp;&nbsp;
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kevinlatino/)&nbsp;&nbsp;&nbsp;
-[![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://twitter.com/@Kevs_jLM)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&size=large)](mailto:kevinlatino9@gmail.com)&nbsp;&nbsp;&nbsp;
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&size=large)](https://t.me/kevlatino)&nbsp;&nbsp;&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&size=large)](https://www.linkedin.com/in/kevinlatino/)&nbsp;&nbsp;&nbsp;
+[![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white&size=large)](https://twitter.com/@Kevs_jLM)
+
 
 
 
