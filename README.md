@@ -58,8 +58,8 @@ I'm a **Software Engineer**, **Open-Source Contributor**, and **Web3 Developer**
 <img src="./Tech-Images/react.svg" width="43"/>&nbsp;&nbsp;&nbsp;
 <img src="./Tech-Images/nextjs_icon_dark.svg" width="40"/>&nbsp;&nbsp;&nbsp;
 <img src="./Tech-Images/reactquery.svg" width="45"/>&nbsp;&nbsp;&nbsp;
-<img src="./Tech-Images/redux.svg" width="42"/>&nbsp;&nbsp;&nbsp;
-<img src="./Tech-Images/zustand.svg" width="42"/>&nbsp;&nbsp;&nbsp;
+<img src="./Tech-Images/redux.svg" width="40"/>&nbsp;&nbsp;&nbsp;
+<img src="./Tech-Images/zustand.svg" width="46"/>&nbsp;&nbsp;&nbsp;
 <img src="./Tech-Images/tailwindcss.svg" width="52"/>&nbsp;&nbsp;&nbsp;
 
 
