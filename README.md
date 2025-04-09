@@ -58,7 +58,10 @@ I'm a **Software Engineer**, **Open-Source Contributor**, and **Web3 Developer**
 <img src="./Tech-Images/react.svg" width="43"/>&nbsp;&nbsp;&nbsp;
 <img src="./Tech-Images/nextjs_icon_dark.svg" width="40"/>&nbsp;&nbsp;&nbsp;
 <img src="./Tech-Images/reactquery.svg" width="45"/>&nbsp;&nbsp;&nbsp;
-<img src="./Tech-Images/tailwindcss.svg" width="52"/>
+<img src="./Tech-Images/redux.svg" width="52"/>&nbsp;&nbsp;&nbsp;
+<img src="./Tech-Images/zustand.svg" width="52"/>&nbsp;&nbsp;&nbsp;
+<img src="./Tech-Images/tailwindcss.svg" width="52"/>&nbsp;&nbsp;&nbsp;
+
 
 </div>
 
@@ -66,10 +69,13 @@ I'm a **Software Engineer**, **Open-Source Contributor**, and **Web3 Developer**
   ## Backend Stack  🧬
 
 <div align="center">
-    <img src="./Tech-Images/python.svg"  width="43"/>&nbsp;&nbsp;&nbsp;
+   <img src="./Tech-Images/python.svg"  width="43"/>&nbsp;&nbsp;&nbsp;
+   <img src="./Tech-Images/fastapi.svg" width="52"/>&nbsp;&nbsp;&nbsp;
    <img src="./Tech-Images/node-js.svg"  width="51"/>&nbsp;&nbsp;&nbsp;
+   <img src="./Tech-Images/nestjs.svg"  width="51"/>&nbsp;&nbsp;&nbsp;
    <img src="./Tech-Images/sequelize.svg" width="38"/> &nbsp;&nbsp;&nbsp;
    <img src="./Tech-Images/typeorm.svg" width="40"/> &nbsp;&nbsp;&nbsp;
+
 </div>
 
 
