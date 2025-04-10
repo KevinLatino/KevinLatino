@@ -47,9 +47,9 @@ I'm a **Software Engineer**, **Open-Source Contributor**, and **Web3 Developer**
 
 ##
 
- # My Tech Skills ⛩️
+ # My Tech Stack ⛩️
 
-  ## Frontend Stack  🎨
+  ## Frontend 🎨
  
 <div align="center">
 
@@ -66,7 +66,7 @@ I'm a **Software Engineer**, **Open-Source Contributor**, and **Web3 Developer**
 </div>
 
 
-  ## Backend Stack  🧬
+  ## Backend 🧬
 
 <div align="center">
    <img src="./Tech-Images/python.svg"  width="43"/>&nbsp;&nbsp;&nbsp;
@@ -80,7 +80,7 @@ I'm a **Software Engineer**, **Open-Source Contributor**, and **Web3 Developer**
 
 
 
-  ## DataBase Stack  🔑
+  ## DataBase 🔑
  
 
   <div align="center" >
@@ -91,7 +91,7 @@ I'm a **Software Engineer**, **Open-Source Contributor**, and **Web3 Developer**
 
   </div>
 
-  ## DevOps and Tools  🌀
+  ## Development Tools & Workflow 🌀
 
 <div align="center">
   <img src="./Tech-Images/git.svg" width="40"/>&nbsp;&nbsp;&nbsp;
