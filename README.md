@@ -35,7 +35,8 @@ I'm a **Software Engineer**, **Open-Source Contributor**, and **Web3 Developer**
 - 🤝 **Co-founder** at [Oppia Software Labs](https://github.com/Oppia-Software-Labs), driving innovative software development.
 - 🌍 **Open Source Contributor**: Enhancing software and learning through global collaboration with developers.
 - 🦀 **Mastering Rust**: Developing high-performance, memory-efficient applications.
-- 🔗 **Exploring Blockchain**: Deepening expertise in blockchain, smart contracts, and decentralized systems.
+- 🔗 Exploring Blockchain: Deepening expertise in blockchain, smart contracts, decentralized finance (DeFi), and distributed systems.
+
 
 
 
