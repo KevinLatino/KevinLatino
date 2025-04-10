@@ -99,6 +99,5 @@ I'm a **Software Engineer**, **Open-Source Contributor**, and **Web3 Developer**
   <img src="./Tech-Images/bitbucket.svg" width="40"/>&nbsp;&nbsp;&nbsp;
   <img src="./Tech-Images/jira-1.svg" width="40"/>&nbsp;&nbsp;&nbsp;
   <img src="./Tech-Images/jest.svg" width="35"/>&nbsp;&nbsp;&nbsp;
-  <img src="./Tech-Images/postman.svg" width="40"/>&nbsp;&nbsp;&nbsp;
   <img src="./Tech-Images/docker.svg" width="54"/>&nbsp;&nbsp;&nbsp;  
 </div>
