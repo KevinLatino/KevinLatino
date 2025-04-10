@@ -74,8 +74,6 @@ I'm a **Software Engineer**, **Open-Source Contributor**, and **Web3 Developer**
    <img src="./Tech-Images/node-js.svg"  width="51"/>&nbsp;&nbsp;&nbsp;
    <img src="./Tech-Images/nestjs.svg"  width="44"/>&nbsp;&nbsp;&nbsp;
    <img src="./Tech-Images/sequelize.svg" width="38"/> &nbsp;&nbsp;&nbsp;
-   <img src="./Tech-Images/typeorm.svg" width="40"/> &nbsp;&nbsp;&nbsp;
-
 </div>
 
 
