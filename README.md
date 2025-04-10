@@ -83,7 +83,7 @@ I'm a **Software Engineer**, **Open-Source Contributor**, and **Web3 Developer**
   ## DataBase Stack  🔑
  
 
-  <div align="center" ">
+  <div align="center" >
     
   <img src="./Tech-Images/postgresql.svg"  width="40"/>&nbsp;&nbsp;&nbsp;
   <img src="./Tech-Images/mongodb.svg"  width="20"/>&nbsp;&nbsp;&nbsp;
@@ -94,9 +94,10 @@ I'm a **Software Engineer**, **Open-Source Contributor**, and **Web3 Developer**
   ## DevOps and Tools  🌀
 
 <div align="center">
-  
-  <img src="./Tech-Images/github-dark.svg" width="40"/>&nbsp;&nbsp;&nbsp;
   <img src="./Tech-Images/git.svg" width="40"/>&nbsp;&nbsp;&nbsp;
+  <img src="./Tech-Images/github-dark.svg" width="40"/>&nbsp;&nbsp;&nbsp;
+  <img src="./Tech-Images/bitbucket.svg" width="40"/>&nbsp;&nbsp;&nbsp;
+  <img src="./Tech-Images/jira-1.svg" width="40"/>&nbsp;&nbsp;&nbsp;
   <img src="./Tech-Images/jest.svg" width="35"/>&nbsp;&nbsp;&nbsp;
   <img src="./Tech-Images/postman.svg" width="40"/>&nbsp;&nbsp;&nbsp;
   <img src="./Tech-Images/docker.svg" width="54"/>&nbsp;&nbsp;&nbsp;  
