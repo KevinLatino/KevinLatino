@@ -1,6 +1,4 @@
-<p align="left">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150" width="100%" />
-</p>
+ <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=160" width="100%" />
 
  <h1> Hello There! I´m Kevin Latino 👋🏽  </h1>
 
