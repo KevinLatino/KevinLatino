@@ -55,14 +55,14 @@ I'm a **Software Engineer**, **Open-Source Contributor**, and **Web3 Developer**
  
 <div align="center">
 
-<img src="./Tech-Images/javascript.svg" width="40"/>&nbsp;&nbsp;&nbsp;
-<img src="./Tech-Images/typescript.svg" width="40"/>&nbsp;&nbsp;&nbsp;
-<img src="./Tech-Images/react.svg" width="43"/>&nbsp;&nbsp;&nbsp;
-<img src="./Tech-Images/nextjs_icon_dark.svg" width="40"/>&nbsp;&nbsp;&nbsp;
-<img src="./Tech-Images/reactquery.svg" width="45"/>&nbsp;&nbsp;&nbsp;
-<img src="./Tech-Images/redux.svg" width="40"/>&nbsp;&nbsp;&nbsp;
-<img src="./Tech-Images/zustand.svg" width="46"/>&nbsp;&nbsp;&nbsp;
-<img src="./Tech-Images/tailwindcss.svg" width="52"/>&nbsp;&nbsp;&nbsp;
+<img src="./Tech-Images/javascript.svg" width="38"/>&nbsp;&nbsp;&nbsp;
+<img src="./Tech-Images/typescript.svg" width="38"/>&nbsp;&nbsp;&nbsp;
+<img src="./Tech-Images/react.svg" width="41"/>&nbsp;&nbsp;&nbsp;
+<img src="./Tech-Images/nextjs_icon_dark.svg" width="38"/>&nbsp;&nbsp;&nbsp;
+<img src="./Tech-Images/reactquery.svg" width="42"/>&nbsp;&nbsp;&nbsp;
+<img src="./Tech-Images/redux.svg" width="38"/>&nbsp;&nbsp;&nbsp;
+<img src="./Tech-Images/zustand.svg" width="42"/>&nbsp;&nbsp;&nbsp;
+<img src="./Tech-Images/tailwindcss.svg" width="51"/>&nbsp;&nbsp;&nbsp;
 
 
 </div>
@@ -71,11 +71,11 @@ I'm a **Software Engineer**, **Open-Source Contributor**, and **Web3 Developer**
   ## Backend 🧬
 
 <div align="center">
-   <img src="./Tech-Images/python.svg"  width="43"/>&nbsp;&nbsp;&nbsp;
-   <img src="./Tech-Images/fastapi.svg" width="42"/>&nbsp;&nbsp;&nbsp;
-   <img src="./Tech-Images/node-js.svg"  width="51"/>&nbsp;&nbsp;&nbsp;
-   <img src="./Tech-Images/nestjs.svg"  width="44"/>&nbsp;&nbsp;&nbsp;
-   <img src="./Tech-Images/sequelize.svg" width="38"/> &nbsp;&nbsp;&nbsp;
+   <img src="./Tech-Images/python.svg"  width="41"/>&nbsp;&nbsp;&nbsp;
+   <img src="./Tech-Images/fastapi.svg" width="39"/>&nbsp;&nbsp;&nbsp;
+   <img src="./Tech-Images/node-js.svg"  width="48"/>&nbsp;&nbsp;&nbsp;
+   <img src="./Tech-Images/nestjs.svg"  width="42"/>&nbsp;&nbsp;&nbsp;
+   <img src="./Tech-Images/sequelize.svg" width="36"/> &nbsp;&nbsp;&nbsp;
 </div>
 
 
@@ -94,10 +94,10 @@ I'm a **Software Engineer**, **Open-Source Contributor**, and **Web3 Developer**
   ## Development Tools & Workflow 🌀
 
 <div align="center">
-  <img src="./Tech-Images/git.svg" width="40"/>&nbsp;&nbsp;&nbsp;
-  <img src="./Tech-Images/github-dark.svg" width="40"/>&nbsp;&nbsp;&nbsp;
-  <img src="./Tech-Images/bitbucket.svg" width="40"/>&nbsp;&nbsp;&nbsp;
-  <img src="./Tech-Images/jira-1.svg" width="40"/>&nbsp;&nbsp;&nbsp;
-  <img src="./Tech-Images/jest.svg" width="35"/>&nbsp;&nbsp;&nbsp;
-  <img src="./Tech-Images/docker.svg" width="54"/>&nbsp;&nbsp;&nbsp;  
+  <img src="./Tech-Images/git.svg" width="38"/>&nbsp;&nbsp;&nbsp;
+  <img src="./Tech-Images/github-dark.svg" width="38"/>&nbsp;&nbsp;&nbsp;
+  <img src="./Tech-Images/bitbucket.svg" width="38"/>&nbsp;&nbsp;&nbsp;
+  <img src="./Tech-Images/jira-1.svg" width="38"/>&nbsp;&nbsp;&nbsp;
+  <img src="./Tech-Images/jest.svg" width="33"/>&nbsp;&nbsp;&nbsp;
+  <img src="./Tech-Images/docker.svg" width="52"/>&nbsp;&nbsp;&nbsp;  
 </div>
