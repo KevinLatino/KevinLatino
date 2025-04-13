@@ -48,8 +48,8 @@ I'm a **Software Engineer**, **Open-Source Contributor**, and **Web3 Developer**
 </div>
 
 ##
-
- # My Tech Stack ⛩️
+ 
+<h1>My Tech Stack ⛩️ </h1> 
 
   ## Frontend 🎨
  
