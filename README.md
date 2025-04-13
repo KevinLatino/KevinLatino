@@ -1,7 +1,6 @@
 <p align="left">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=160" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150" width="100%" />
 </p>
-
  # Hello There! I´m Kevin Latino 👋🏽
 
  <div align="left">
