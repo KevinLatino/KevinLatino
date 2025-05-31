@@ -91,7 +91,7 @@ I'm a Software Engineer, Open-Source Contributor, and Web3 Developer. Here on Gi
 
   </div>
 
-  ## Development Tools & QA 🌀
+  ## Development Tools & Workflows 🌀
 
 <div align="center">
   <img src="./Tech-Images/git.svg" width="38"/>&nbsp;&nbsp;&nbsp;
