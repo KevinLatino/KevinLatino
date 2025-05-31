@@ -99,5 +99,6 @@ I'm a Software Engineer, Open-Source Contributor, and Web3 Developer. Here on Gi
   <img src="./Tech-Images/bitbucket.svg" width="38"/>&nbsp;&nbsp;&nbsp;
   <img src="./Tech-Images/jira-1.svg" width="38"/>&nbsp;&nbsp;&nbsp;
   <img src="./Tech-Images/jest.svg" width="33"/>&nbsp;&nbsp;&nbsp;
-  <img src="./Tech-Images/docker.svg" width="52"/>&nbsp;&nbsp;&nbsp;  
+  <img src="./Tech-Images/docker.svg" width="52"/>&nbsp;&nbsp;&nbsp; 
+  <img src="./Tech-Images/vercel_dark1.svg" width="38"/>&nbsp;&nbsp;&nbsp; 
 </div>
