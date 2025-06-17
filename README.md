@@ -1,5 +1,3 @@
- <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=160" width="100%" />
-
  <h1> Hello There! I´m Kevin Latino 👋🏽  </h1>
 
  <div align="left">
@@ -34,7 +32,7 @@ I'm a Software Engineer, Open-Source Contributor, and Web3 Developer. Here on Gi
 ### What I'm Up To 💡
 
 
-- 🤝 **Co-founder and Head of Frontend Engineering** at [Oppia Software Labs](https://github.com/Oppia-Software-Labs), driving innovative software development.
+- 🤝 **Co-founder and Head of Frontend Engineering**: at [Oppia Software Labs](https://github.com/Oppia-Software-Labs), driving innovative software development.
 - 🌍 **Open Source Contributor**: Enhancing software and learning through global collaboration with developers.
 - 🦀 **Mastering Rust**: Developing high-performance, memory-efficient applications.
 - 🔗 **Exploring Blockchain**: Deepening expertise in blockchain, smart contracts, DeFi and decentralized architectures.
