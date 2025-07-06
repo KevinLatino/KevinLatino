@@ -57,7 +57,7 @@ I'm a Software Engineer, Open-Source Contributor, and Web3 Developer. Here on Gi
 <img src="./Tech-Images/typescript.svg" width="38"/>&nbsp;&nbsp;&nbsp;
 <img src="./Tech-Images/react.svg" width="41"/>&nbsp;&nbsp;&nbsp;
 <img src="./Tech-Images/nextjs_icon_dark.svg" width="38"/>&nbsp;&nbsp;&nbsp;
-<img src="./Tech-Images/astro_dark.svg" width="26"/>&nbsp;&nbsp;&nbsp;
+<img src="./Tech-Images/astro_dark.svg" width="25"/>&nbsp;&nbsp;&nbsp;
 <img src="./Tech-Images/reactquery.svg" width="42"/>&nbsp;&nbsp;&nbsp;
 <img src="./Tech-Images/redux.svg" width="38"/>&nbsp;&nbsp;&nbsp;
 <img src="./Tech-Images/zustand.svg" width="42"/>&nbsp;&nbsp;&nbsp;
