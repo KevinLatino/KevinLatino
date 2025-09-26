@@ -14,7 +14,7 @@ I'm a Software Engineer, Open-Source Contributor, and Web3 Developer. Here on Gi
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&size=large)](mailto:latinokevin9@gmail.com)&nbsp;&nbsp;&nbsp;
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&size=large)](https://t.me/kevlatino)&nbsp;&nbsp;&nbsp;
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&size=large)](https://www.linkedin.com/in/kevinlatino/)&nbsp;&nbsp;&nbsp;
-[![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white&size=large)](https://twitter.com/@Kevs_jLM)
+[![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white&size=large)](https://twitter.com/@kevinlatino_)
 
 
 
@@ -100,3 +100,4 @@ I'm a Software Engineer, Open-Source Contributor, and Web3 Developer. Here on Gi
   <img src="./Tech-Images/jest.svg" width="33"/>&nbsp;&nbsp;&nbsp;
   <img src="./Tech-Images/docker.svg" width="52"/>&nbsp;&nbsp;&nbsp; 
 </div>
+
