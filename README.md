@@ -38,11 +38,6 @@ I'm a Software Engineer, Open-Source Contributor, and Web3 Developer. Here on Gi
 
 
 
-### GitHub Performance Overview 👨🏽‍💻
-
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=KevinLatino&show_icons=true&theme=github_dark&hide_border=true" width="395" />
-</div>
 
 ##
  
@@ -99,6 +94,7 @@ I'm a Software Engineer, Open-Source Contributor, and Web3 Developer. Here on Gi
   <img src="./Tech-Images/jest.svg" width="33"/>&nbsp;&nbsp;&nbsp;
   <img src="./Tech-Images/docker.svg" width="52"/>&nbsp;&nbsp;&nbsp; 
 </div>
+
 
 
 
