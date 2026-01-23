@@ -33,7 +33,6 @@ I'm a Software Engineer, Open-Source Contributor, and Web3 Developer. Here on Gi
 
 
 - 🌍 **Open Source Contributor**: Enhancing software and learning through global collaboration with developers.
-- 🦀 **Mastering Rust**: Developing high-performance, memory-efficient applications.
 - 🔗 **Exploring Blockchain**: Deepening expertise in blockchain, smart contracts, DeFi and decentralized architectures.
 
 
@@ -94,6 +93,7 @@ I'm a Software Engineer, Open-Source Contributor, and Web3 Developer. Here on Gi
   <img src="./Tech-Images/jest.svg" width="33"/>&nbsp;&nbsp;&nbsp;
   <img src="./Tech-Images/docker.svg" width="52"/>&nbsp;&nbsp;&nbsp; 
 </div>
+
 
 
 
