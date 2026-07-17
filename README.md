@@ -31,7 +31,7 @@ I'm a Software Engineer, Open-Source Contributor, and Web3 Developer. Here on Gi
 
 ### What I'm Up To 💡
 
-- **Software Engineer at LMD**: Building secure and scalable software solutions for the healthcare industry, delivering technology that improves patient care and operational efficiency. Software Engineering for Life.
+- **Software Engineer at [LMD](https://www.lmdlogic.com/)**: Developing software for connected medical devices, IoT platforms, device connectivity, and scalable solutions in regulated MedTech environments. Software Engineering for Life.
 - **Open Source Contributor**: Enhancing software and learning through global collaboration with developers.
 - **Exploring Blockchain**: Deepening expertise in blockchain, smart contracts, DeFi and decentralized architectures.
 
