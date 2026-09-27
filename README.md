@@ -32,8 +32,8 @@ I'm a Software Engineer, Open-Source Contributor, and Web3 Developer. Here on Gi
 ### What I'm Up To 💡
 
 - **Software Engineer at [LMD](https://www.lmdlogic.com/)**: Developing software for connected medical devices, IoT platforms, device connectivity, and scalable solutions in regulated MedTech environments. Software Engineering for Life.
+- **Co-Founder & Product Lead at Neko**: Building an investment platform that gives Latin Americans access to global financial opportunities through tokenized assets.
 - **Open Source Contributor**: Enhancing software and learning through global collaboration with developers.
-- **Exploring Blockchain**: Deepening expertise in blockchain, smart contracts, DeFi and decentralized architectures.
 
 
 
