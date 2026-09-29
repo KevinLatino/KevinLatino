@@ -2,7 +2,9 @@
 
  <div align="left">
 
-I'm a Software Engineer, Open-Source Contributor, and Web3 Developer. Here on GitHub, you'll find my personal projects alongside my contributions to open-source software projects. I'm deeply passionate about continuous learning and always eager to embrace new challenges that drive my professional growth and technical expertise.
+Software engineer with a strong focus on product management and building scalable, high-performance digital products. Experienced in designing architectures for data-intensive and real-time systems, while helping teams translate product ideas into reliable and well-executed solutions.
+
+I collaborate closely with engineering and product teams to define priorities, coordinate development timelines, and ensure efficient delivery from concept to release.
 
 </div>
 
