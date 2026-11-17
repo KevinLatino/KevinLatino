@@ -34,7 +34,7 @@ I collaborate closely with engineering and product teams to define priorities, c
 ### What I'm Up To 💡
 
 - **Software Engineer at [LMD](https://www.lmdlogic.com/)**: Developing software for connected medical devices, IoT platforms, device connectivity, and scalable solutions in regulated MedTech environments. Software Engineering for Life.
-- **Co-Founder & CPO at [Neko](https://www.nekoprotocol.xyz/)**: Building an investment platform that gives Latin Americans access to global financial opportunities through tokenized assets.
+- **Co-Founder & Product Lead at [Neko](https://www.nekoprotocol.xyz/)**: Building an investment platform that gives Latin Americans access to global financial opportunities through tokenized assets.
 - **Open Source Contributor**: Enhancing software and learning through global collaboration with developers.
 
 
